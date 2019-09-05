@@ -1,0 +1,8 @@
+{
+  "indexes": [],
+  "fieldOverrides": [],
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
